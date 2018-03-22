@@ -1,0 +1,6 @@
+---
+NAME: test1
+BASE_IMAGE: base/base-centos7
+PORTS:
+  - type: TCP
+    port: 80
